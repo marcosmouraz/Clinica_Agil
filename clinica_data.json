@@ -1,0 +1,20 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nome": "Marcos",
+      "telefone": "81988651776"
+    },
+    {
+      "id": 2,
+      "nome": "Renato",
+      "telefone": "81988960329"
+    },
+    {
+      "id": 3,
+      "nome": "arthur",
+      "telefone": "81992905597"
+    }
+  ],
+  "agendamentos": []
+}
